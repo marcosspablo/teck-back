@@ -1,1 +1,1 @@
-Projeto da disciplina de Tecnologia de Backend 1
+Projeto da disciplina de Tecnologia para backend 1.
